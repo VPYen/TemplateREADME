@@ -11,7 +11,7 @@
 ### Technologies & Libraries
     "SHIELD TAGS HERE"
     "EXAMPLE" 
-    [![React][React.js]][React-url]
+[![React][React.js]][React-url]
 <br/>
 
 <!-- Platform Structure -->
