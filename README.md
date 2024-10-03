@@ -10,7 +10,7 @@
 <!-- Technologies & Libraries -->
 ### Technologies & Libraries
     "SHIELD TAGS HERE"
-    "EXAMPLE" 
+EXAMPLE:
 [![React][React.js]][React-url]
 <br/>
 
