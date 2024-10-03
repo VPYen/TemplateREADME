@@ -1,6 +1,6 @@
 <div align="center">
   
-  <a href=[AppLink]>
+  <a href="https://github.com/VPYen/TemplateREADME">
     <h3>"APP TITLE HERE"</h3>
   </a>
   <h4>
@@ -60,6 +60,5 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[AppLink]: https://github.com/VPYen/TemplateREADME
 [React.js]: https://img.shields.io/badge/React-23272f?style=for-the-badge&logo=react
 [React-url]: https://reactjs.org/
