@@ -1,8 +1,5 @@
 <div align="center">
-  
-  <a href="https://github.com/VPYen/TemplateREADME">
     <h3>"APP TITLE HERE"</h3>
-  </a>
   <h4>
     "APP DESCRIPTION HERE"
   </h4>
